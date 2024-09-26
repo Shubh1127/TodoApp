@@ -1,0 +1,38 @@
+.box{
+    padding: 20px 80px 40px 80px;
+    border-radius: 1rem;
+    background-color: #fff;
+    background: linear-gradient(135deg,#e81cff,#40c9ff);
+}
+*{
+    color: #FFF;
+}
+.input{
+    padding: 15px;
+    border-radius: 1rem;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #000;
+}
+.box2{
+    margin: 0 auto;
+    border-radius: 1rem;
+    background-color: #edeef0;
+    width: 82%;
+   
+}
+.bt{
+    border: none;
+    outline: none !important; 
+    border-radius: 1rem !important;
+    background: orange !important;
+    height: 50.4px;
+}
+.st{
+    list-style: none;
+}
+.task{
+    padding: 0.3em 0.4em !important;
+    margin: 10px;
+}
